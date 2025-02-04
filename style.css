@@ -1,0 +1,17 @@
+body {
+    background: url('https://images.pexels.com/photos/748626/pexels-photo-748626.jpeg?cs=srgb&dl=sea-landscape-nature-748626.jpg&fm=jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.title {
+    font-size: 2rem;
+    color: #5A5A5A;
+}
+
+.box {
+    border: 2px solid #333;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
